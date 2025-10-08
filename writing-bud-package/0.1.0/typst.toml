@@ -1,0 +1,9 @@
+[package]
+name = "writing-bud"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Robert Richter <@judgeNotFound>"]
+license = "MIT"
+categories = ["languages", "integration", "utility"]
+description = "Improve your writing with local LLMs."
+
